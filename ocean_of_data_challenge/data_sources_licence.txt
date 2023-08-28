@@ -1,0 +1,17 @@
+DATA SOURCES
+
+Reddit Climate Change
+Author: Lexyr
+Source: https://www.kaggle.com/datasets/pavellexyr/the-reddit-climate-change-dataset
+Data collected using [SocialGrep Exports](https://socialgrep.com/exports)
+
+Twitter data
+Author: DEEPSENSE
+source: https://drive.google.com/drive/folders/1I697IvjVO33NpKDOm85CuudItyFY5k4o
+
+LICENCE
+Attribution 4.0 International (CC BY 4.0)
+https://creativecommons.org/licenses/by/4.0/
+
+CHANGES AND USAGE
+Dataset used for sentiment analysis
