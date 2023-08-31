@@ -7,7 +7,7 @@ Data collected using [SocialGrep Exports](https://socialgrep.com/exports)
 
 Twitter data
 Author: DEEPSENSE
-source: https://drive.google.com/drive/folders/1I697IvjVO33NpKDOm85CuudItyFY5k4o
+source: provided by the organizers
 
 LICENCE
 Attribution 4.0 International (CC BY 4.0)
